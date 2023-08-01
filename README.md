@@ -25,7 +25,7 @@ pre tag(without ignoring spaces and next line)
 <br>
 Lists in html 
    1 unordered
-   2 ordered
+   2 ordered 
 
 
 
