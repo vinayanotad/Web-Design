@@ -24,8 +24,8 @@ subscript and superscript
 pre tag(without ignoring spaces and next line)
 <br>
 Lists in html 
-    unordered
-    ordered
+   1 unordered
+   2 ordered 
 
 
 
